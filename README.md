@@ -107,6 +107,7 @@ Para cada píxel en la imagen (excluyendo bordes):
 
 - Todas las operaciones crean una nueva imagen, dejando la original sin modificar.
 - Los tiempos de procesamiento se registran en un archivo "tiempos_procesamiento.txt".
+- Se debe crear una carpeta para las imagenes resultado ./img_resultado/
 - Las imágenes procesadas se guardan con un sufijo que indica la operación realizada.
 
 ## Licencia
