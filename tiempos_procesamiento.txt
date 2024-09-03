@@ -1,0 +1,1 @@
+espejoImagen: 30.8735 ms
